@@ -39,7 +39,7 @@
     "react-dom": "^18.2.0",
     "react-focus-lock": "^2.9.1",
     "react-icons": "^4.4.0",
-    "react-router-dom": "^6.4.3",
+    "react-router-dom": "^6.30.3",
     "reflect-metadata": "^0.1.13",
     "swiper": "^8.2.6",
     "typeid-js": "^0.3.0"
