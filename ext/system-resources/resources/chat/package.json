@@ -12,7 +12,7 @@
     "vue": "^3.3.4",
     "vue-loader": "^17.2.2",
     "vue-template-compiler": "^2.7.14",
-    "webpack": "5"
+    "webpack": "5.104.1"
   },
   "devDependencies": {
     "webpack-cli": "^5.1.1"
